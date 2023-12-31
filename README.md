@@ -16,12 +16,12 @@ Welcome to our Social Media UI Web Application! This project is developed using 
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/social-media-ui.git
+    git clone https://github.com/Kaadi2023/hash-tag.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd social-media-ui
+    cd mui_project
     ```
 
 3. **Install Dependencies:**
@@ -38,7 +38,7 @@ This will start the development server, and you can access the application at [h
 
 ## Usage
 
-Feel free to explore the codebase, make modifications, and use this project as a foundation for your social media web application. If you encounter any issues or have suggestions, please open an [issue](https://github.com/your-username/social-media-ui/issues).
+Feel free to explore the codebase, make modifications, and use this project as a foundation for your social media web application. If you encounter any issues or have suggestions, please open an [issue](https://github.com/Kaadi2023/hash-tag/issues).
 
 ## Contributing
 
