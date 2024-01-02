@@ -2,7 +2,7 @@
 
 Welcome to our Social Media UI Web Application! This project is developed using React (JavaScript), Vite, and Material-UI, providing a sleek and responsive user interface for a seamless social media experience. Additionally, the application comes with a unique feature of both Dark and Light modes to cater to different user preferences.
 
-<h5>This project is deployed through netlify and live on this link " https://tag-aadi.netlify.app/ " .you can see by following this link</h5>
+<h5>This project is deployed through netlify and live on this link " https://taghash.netlify.app/ " .you can see by following this link</h5>
 
 ## Features
 
