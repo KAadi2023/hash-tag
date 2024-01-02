@@ -50,7 +50,7 @@ const Navbar = () => {
     <AppBar position="sticky">
       <StyledToolbar>
         <Box sx={{display: "flex"}}>
-          <Tag />
+          <Tag sx={{ display: { xs: "block", sm: "none" } }} />
           <Typography
             variant="h6"
             sx={{ display: { xs: "none", sm: "block" } }}
